@@ -1,0 +1,38 @@
+.conteudo{
+    width: 40vw;
+    height: 75vh;
+    background-color: rgb(228, 228, 228);
+}
+
+input{
+    width: 28vw;
+    padding: 2%;
+    margin-bottom: 3px;
+    border: none;
+    font-weight: bolder;
+}
+
+button{
+    width: 355px;
+    border: none;
+    padding: 2%;
+    margin-top: 7px;
+    font-weight: bolder;
+    color: rgb(228, 226, 226);
+    background-color: rgb(177, 177, 177);
+}
+
+.paragrafo{
+ font-size: 10px;
+ font-weight: bolder;
+ margin-right: 168px;
+ color: gray;
+}
+
+.titulo{
+    margin-right: 275px;
+    margin-top: 150px;
+    font-size: 20px;
+    line-height:1px;
+    color: rgb(42, 43, 75) ;
+}
